@@ -1,0 +1,532 @@
+Uri: https://futuredesks.in/
+File Name: E:\copy website\futuredesks.in\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/2024/01/
+File Name: E:\copy website\futuredesks.in\2024\01\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/author/2003deepanshuchauhangmail-com/
+File Name: E:\copy website\futuredesks.in\author\2003deepanshuchauhangmail-com\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/author/2003deepanshuchauhangmail-com/feed/
+File Name: E:\copy website\futuredesks.in\author\2003deepanshuchauhangmail-com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://futuredesks.in/blog/
+File Name: E:\copy website\futuredesks.in\blog\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/category/uncategorized/
+File Name: E:\copy website\futuredesks.in\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/category/uncategorized/feed/
+File Name: E:\copy website\futuredesks.in\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://futuredesks.in/comments/feed/
+File Name: E:\copy website\futuredesks.in\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://futuredesks.in/feed/
+File Name: E:\copy website\futuredesks.in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://futuredesks.in/powerhouse-your-startup-one-stop-development-marketing-and-legal-support/
+File Name: E:\copy website\futuredesks.in\powerhouse-your-startup-one-stop-development-marketing-and-legal-support\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/powerhouse-your-startup-one-stop-development-marketing-and-legal-support/feed/
+File Name: E:\copy website\futuredesks.in\powerhouse-your-startup-one-stop-development-marketing-and-legal-support\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://futuredesks.in/tag/brand-building/
+File Name: E:\copy website\futuredesks.in\tag\brand-building\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/tag/brand-building/feed/
+File Name: E:\copy website\futuredesks.in\tag\brand-building\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://futuredesks.in/tag/startup-development/
+File Name: E:\copy website\futuredesks.in\tag\startup-development\index.htm
+Content Type: text/html
+
+Uri: https://futuredesks.in/tag/startup-development/feed/
+File Name: E:\copy website\futuredesks.in\tag\startup-development\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://futuredesks.in/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css?ver=4.1
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\css\main.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=4.1
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\js\app.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.6
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.6
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.6
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.0
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.0
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.0
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.0
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/plugins/nerko-core/assets/css/unicons.css?ver=1.0.0
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\nerko-core\assets\css\unicons.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/plugins/nerko-core/assets/fonts/unicons/Unicons.eot?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\nerko-core\assets\fonts\unicons\Unicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/plugins/nerko-core/assets/fonts/unicons/Unicons.svg?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\nerko-core\assets\fonts\unicons\Unicons.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/plugins/nerko-core/assets/fonts/unicons/Unicons.ttf?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\nerko-core\assets\fonts\unicons\Unicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://futuredesks.in/wp-content/plugins/nerko-core/assets/fonts/unicons/Unicons.woff?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\nerko-core\assets\fonts\unicons\Unicons.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/plugins/nerko-core/assets/js/hello-world.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\plugins\nerko-core\assets\js\hello-world.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/animate.min.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/bootstrap.min.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/default-icons.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\default-icons.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/fontawesome-all.min.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/fonts.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\fonts.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/nerko-core.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\nerko-core.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/nerko-custom.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\nerko-custom.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/nerko-unit.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\nerko-unit.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/spacing.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\spacing.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/swiper-bundle.min.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/css/unicons.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\css\unicons.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/flat-icon/flaticon_tg_default.eot?e3deef4d25a8a816ffcc2046eac5a266
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\flat-icon\flaticon_tg_default.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/flat-icon/flaticon_tg_default.svg?e3deef4d25a8a816ffcc2046eac5a266
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\flat-icon\flaticon_tg_default.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/flat-icon/flaticon_tg_default.ttf?e3deef4d25a8a816ffcc2046eac5a266
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\flat-icon\flaticon_tg_default.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/flat-icon/flaticon_tg_default.woff2?e3deef4d25a8a816ffcc2046eac5a266
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\flat-icon\flaticon_tg_default.woff2
+Content Type: font/woff2
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/flat-icon/flaticon_tg_default.woff?e3deef4d25a8a816ffcc2046eac5a266
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\flat-icon\flaticon_tg_default.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-brands-400.eot
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-brands-400.eot?
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-brands-400.svg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-brands-400.ttf
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-brands-400.woff
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-brands-400.woff2
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-regular-400.eot
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-regular-400.eot?
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-regular-400.svg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-regular-400.ttf
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-regular-400.woff
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-regular-400.woff2
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-solid-900.eot
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-solid-900.eot?
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-solid-900.svg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-solid-900.ttf
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-solid-900.woff
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/font-awesome/fa-solid-900.woff2
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\font-awesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/mabry-pro/MabryPro-Bold.woff
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\mabry-pro\MabryPro-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/mabry-pro/MabryPro-Bold.woff2
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\mabry-pro\MabryPro-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/mabry-pro/MabryPro-Regular.woff
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\mabry-pro\MabryPro-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/mabry-pro/MabryPro-Regular.woff2
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\mabry-pro\MabryPro-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/power-grotesk/PowerGrotesk-UltraBold.woff
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\power-grotesk\PowerGrotesk-UltraBold.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/power-grotesk/PowerGrotesk-UltraBold.woff2
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\power-grotesk\PowerGrotesk-UltraBold.woff2
+Content Type: font/woff2
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/unicons/Unicons.eot?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\unicons\Unicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/unicons/Unicons.svg?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\unicons\Unicons.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/unicons/Unicons.ttf?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\unicons\Unicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/fonts/unicons/Unicons.woff?lkolxg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\fonts\unicons\Unicons.woff
+Content Type: application/font-woff
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/img/icons/d_arrow.png
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\img\icons\d_arrow.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/img/icons/quote_icon.png
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\img\icons\quote_icon.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/img/others/blob-dashed-light.svg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\img\others\blob-dashed-light.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/img/others/blob-dashed.svg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\img\others\blob-dashed.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/img/others/gradient-circle.svg
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\img\others\gradient-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/anime-helper-defined-timelines.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\anime-helper-defined-timelines.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/anime-helper.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\anime-helper.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/anime.min.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\anime.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/bootstrap.min.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/jquery.easing.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\jquery.easing.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/main.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/swiper-bundle.min.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/assets/js/tg-page-head.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\assets\js\tg-page-head.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-content/themes/nerko/style.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-content\themes\nerko\style.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/art_06-1.jpg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\art_06-1.jpg
+Content Type: image/jpeg
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/art_09-1.jpg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\art_09-1.jpg
+Content Type: image/jpeg
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/bitcoin-01-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\bitcoin-01-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/blog_post03-1-300x180.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\blog_post03-1-300x180.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/blog_post03-1-768x461.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\blog_post03-1-768x461.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/blog_post03-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\blog_post03-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/circle-01-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\circle-01-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/circle-02-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\circle-02-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/circle-03-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\circle-03-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/divider-01-1.svg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\divider-01-1.svg
+Content Type: image/svg+xml
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/ethereum-01-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\ethereum-01-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/ethereum-02-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\ethereum-02-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2022/12/x-1.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2022\12\x-1.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/01/cap-white.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\01\cap-white.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/01/cap.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\01\cap.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/01/cropped-logo-1-180x180.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\01\cropped-logo-1-180x180.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/01/cropped-logo-1-192x192.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\01\cropped-logo-1-192x192.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/01/cropped-logo-1-32x32.png
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\01\cropped-logo-1-32x32.png
+Content Type: image/png
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/02/7b9620e4-cee1-451f-b4b0-39bae8f4e001-768x1271.jpeg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\02\7b9620e4-cee1-451f-b4b0-39bae8f4e001-768x1271.jpeg
+Content Type: image/jpeg
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/02/IMG-20230311-WA0016-768x1036.jpg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\02\IMG-20230311-WA0016-768x1036.jpg
+Content Type: image/jpeg
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/02/IMG_3225-768x1365.jpg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\02\IMG_3225-768x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/02/Picsart_23-11-23_23-14-47-233.jpg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\02\Picsart_23-11-23_23-14-47-233.jpg
+Content Type: image/jpeg
+
+Uri: https://futuredesks.in/wp-content/uploads/2024/06/IMG20240606174719-768x1360.jpg
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\2024\06\IMG20240606174719-768x1360.jpg
+Content Type: image/jpeg
+
+Uri: https://futuredesks.in/wp-content/uploads/elementor/css/global.css?ver=1715415601
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/uploads/elementor/css/post-24.css?ver=1717773143
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-content/uploads/elementor/css/post-5.css?ver=1715415600
+File Name: E:\copy website\futuredesks.in\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-includes/css/dist/block-library/style.min.css?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://futuredesks.in/wp-includes/js/comment-reply.min.js?ver=6.5.4
+File Name: E:\copy website\futuredesks.in\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: E:\copy website\futuredesks.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: E:\copy website\futuredesks.in\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: E:\copy website\futuredesks.in\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://futuredesks.in/wp-json/
+File Name: E:\copy website\futuredesks.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuturedesks.in%2F
+File Name: E:\copy website\futuredesks.in\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuturedesks.in%2F&format=xml
+File Name: E:\copy website\futuredesks.in\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://futuredesks.in/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuturedesks.in%2Fpowerhouse-your-startup-one-stop-development-marketing-and-legal-support%2F
+File Name: E:\copy website\futuredesks.in\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/oembed/1.0/embed?url=https:%2F%2Ffuturedesks.in%2Fpowerhouse-your-startup-one-stop-development-marketing-and-legal-support%2F&format=xml
+File Name: E:\copy website\futuredesks.in\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://futuredesks.in/wp-json/wp/v2/categories/1
+File Name: E:\copy website\futuredesks.in\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/wp/v2/pages/24
+File Name: E:\copy website\futuredesks.in\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/wp/v2/posts/565
+File Name: E:\copy website\futuredesks.in\wp-json\wp\v2\posts\565
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/wp/v2/tags/17
+File Name: E:\copy website\futuredesks.in\wp-json\wp\v2\tags\17
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/wp/v2/tags/18
+File Name: E:\copy website\futuredesks.in\wp-json\wp\v2\tags\18
+Content Type: application/json
+
+Uri: https://futuredesks.in/wp-json/wp/v2/users/1
+File Name: E:\copy website\futuredesks.in\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://futuredesks.in/xmlrpc.php?rsd
+File Name: E:\copy website\futuredesks.in\xmlrpc.php
+Content Type: text/xml
+
